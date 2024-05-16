@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1715848395 source:c:\users\nmc11\onedrive\desktop\new folder\demosdl\main.cpp
+	<bits/stdc++.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"defs.h"
+	"graphics.h"
+	"enemy.h"
+	"game.h"
+	"egg.h"
+
+1715820570 c:\users\nmc11\onedrive\desktop\new folder\demosdl\defs.h
+
+1715848511 c:\users\nmc11\onedrive\desktop\new folder\demosdl\graphics.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"defs.h"
+
+1715843270 source:c:\users\nmc11\onedrive\desktop\new folder\demosdl\enemy.cpp
+	"enemy.h"
+	"ctime"
+	"cstdlib"
+	"vector"
+
+1715845818 c:\users\nmc11\onedrive\desktop\new folder\demosdl\enemy.h
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+
+1715843035 c:\users\nmc11\onedrive\desktop\new folder\demosdl\game.h
+
+1715757431 c:\users\nmc11\onedrive\desktop\new folder\demosdl\egg.h
+	<SDL.h>
+	<SDL_image.h>
+	"defs.h"
+
